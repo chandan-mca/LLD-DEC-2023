@@ -2,8 +2,8 @@
 
 ## LLD : OOP-1: Introduction to LLD and OOP
 - Introduction to OOP
-- Procedular Programming vs Object Oriented Programming
-- OOP Principles and Pillers
+- Procedural Programming vs Object Oriented Programming
+- OOP Principles and Pillars
 
 ## LLD : OOP-2: Access Modifiers and Constructors
 - Abstraction
